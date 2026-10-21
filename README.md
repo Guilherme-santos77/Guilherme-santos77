@@ -7,9 +7,9 @@
 ## 🚀 Sobre mim
 
 - 📚 Estudante de ADS na Universidade São Judas Tadeu (USJT)
-- 💻 Interesse em Desenvolvimento de Software
-- 🌱 Atualmente estudando Java, Python, SQL e Git
-- 📊 Interesse em Banco de Dados e Automação de Processos
+- 💻 Interesse em Desenvolvimento de Software e Banco de dados
+- 🌱 Atualmente estudando Java, Python, SQL e Git/GitHub
+- 🚀 Desenvolvendo projetos para aprimorar conhecimentos práticos
 - 🎯 Em busca da minha primeira oportunidade na área de Tecnologia
 
 ## 💻 Tecnologias
